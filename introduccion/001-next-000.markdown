@@ -1,0 +1,11 @@
+---
+layout: page
+title:  "¿Qué es Xlan?"
+---
+[Anterior](000-main.html) | [Siguiente](002-next-000.html)
+
+**Xlan** es ...
+
+[Anterior](000-main.html) | [Siguiente](002-next-000.html)
+
+<div class=coursetitle>Estás en el Nivel 1: Introducción a la programación con Xlan. <a href="000-main.html">¿Deseas volver al inicio?</a> </div>
